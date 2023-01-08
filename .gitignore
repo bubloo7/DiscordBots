@@ -1,0 +1,4 @@
+.env
+/twitter/*.json
+/*.json
+/twitter/temp.jpg
